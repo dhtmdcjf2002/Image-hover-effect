@@ -1,4 +1,4 @@
 # Image-hover-effect
 
-![ezgif-5-cab6e67512](https://user-images.githubusercontent.com/84269336/177387800-76caf1c5-c1ab-473b-bc32-911bfc1f2c1b.gif)
+![ezgif-5-94872dbdc9](https://user-images.githubusercontent.com/84269336/177387897-850a103d-02a0-4ebe-8f33-21463a18baa0.gif)
 
